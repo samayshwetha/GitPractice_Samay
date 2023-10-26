@@ -8,5 +8,10 @@ public class Demo {
 	   System.out.println("Hi From C++");
 
 	}
+	
+	public void Newmethod()
+	{
+		System.out.println("Hi From NewMethod");
+	}
 
 }
